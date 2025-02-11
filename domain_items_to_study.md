@@ -1,4 +1,4 @@
-# AWS Machine Learning Study Guide
+# AWS Machine Learning Study Guide based on "Exam Readiness: AWS Certified Machine Learning - Specialty" course by AWS Skill Builder.
 
 ## Knowledge Hierarchy
 ![Knowledge Pyramid](random_dump/speciality%20exams%20on%20knowledge%20pyramid.png)
