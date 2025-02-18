@@ -1,4 +1,4 @@
-# AWS Certified - Specialty Exam Study Notes
+# AWS Certified Machine Learning - Specialty Exam Study Notes
 
 This repository contains study notes, mind maps, and practice questions to help you prepare for the **AWS Certified Machine Learning - Specialty exam**. The exam validates expertise in creating and implementing Machine Learning solutions within the AWS platform. This repo aims to help you and myself to prepare for the exam.
 
